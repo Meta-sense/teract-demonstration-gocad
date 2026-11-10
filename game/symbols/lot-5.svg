@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect x="24" y="24" width="152" height="152" rx="24" fill="#ffe4e6" stroke="#e11d48" stroke-width="5"/>
+  <rect x="76" y="52" width="48" height="86" rx="10" fill="none" stroke="#be123c" stroke-width="7"/>
+  <circle cx="100" cy="126" r="5" fill="#be123c"/>
+  <text x="100" y="170" text-anchor="middle" font-family="Trebuchet MS, sans-serif" font-size="16" fill="#be123c">smartphone</text>
+</svg>

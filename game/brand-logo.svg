@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90" width="360" height="90">
+  <g fill="none">
+    <circle cx="45" cy="45" r="30" fill="#ffffff"/>
+    <path d="M45 27l5.5 11.6 12.7 1.7-9.3 8.9 2.3 12.6L45 65.9 33.8 71.9l2.3-12.6-9.3-8.9 12.7-1.7z" fill="#2a0a5e"/>
+    <text x="92" y="52" font-family="Trebuchet MS, Arial, sans-serif" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="1">LOGO</text>
+    <text x="92" y="74" font-family="Trebuchet MS, Arial, sans-serif" font-size="15" font-weight="500" fill="#ffffff" opacity="0.75" letter-spacing="4">CLIENT · PLACEHOLDER</text>
+  </g>
+</svg>

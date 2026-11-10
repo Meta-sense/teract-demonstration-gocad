@@ -1,0 +1,1 @@
+function o(t){return 1-(1-Math.min(1,Math.max(0,t)))**3}function a(t,r,e){return Math.round(t+(r-t)*o(e))}const n=new Map;function u(t,r="fr-FR"){let e=n.get(r);return e||(e=new Intl.NumberFormat(r),n.set(r,e)),e.format(Math.round(t))}export{u as f,a as v};
